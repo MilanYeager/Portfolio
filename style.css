@@ -22,7 +22,7 @@ body {
 }
 
 .left .logo {
-  width: 150px;
+  width: 250px;
   margin-bottom: 20px;
 }
 
@@ -65,6 +65,7 @@ body {
   border-radius: 20px;
   object-fit: cover;
 }
+
 
 
 
