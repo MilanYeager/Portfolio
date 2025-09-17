@@ -78,12 +78,12 @@ header {
 .nav-menu {
     display: flex;         /* knoppen naast elkaar */
     justify-content: center; /* centreer de rij van knoppen */
-    gap: 15px;             /* ruimte tussen de knoppen */
+    gap: 40px;             /* ruimte tussen de knoppen */
 }
 
 /* Knoppen */
 .nav-knop {
-    padding: 10px 20px;
+    padding: 20px 30px;
     background-color: #4CAF50;
     color: white;
     text-decoration: none;
@@ -94,6 +94,7 @@ header {
 .nav-knop:hover {
     background-color: #45a049;
 }
+
 
 
 
