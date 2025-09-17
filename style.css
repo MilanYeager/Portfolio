@@ -60,11 +60,12 @@ body {
 }
 
 .right .profile-pic {
-  max-width: 400%;
-  max-height: 300vh;
+  max-width: 250%;
+  max-height: 200vh;
   border-radius: 20px;
   object-fit: cover;
 }
+
 
 
 
