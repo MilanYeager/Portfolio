@@ -84,7 +84,7 @@ header {
 /* Knoppen */
 .nav-knop {
     padding: 20px 30px;
-    background-color: #4CAF50;
+    background-color: #e0dcb1;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -94,6 +94,7 @@ header {
 .nav-knop:hover {
     background-color: #e0dcb1;
 }
+
 
 
 
