@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 20px;
   background: #FCF7C8;
-  color: #333;
+  color: #444;
 }
 
 header, section, footer {
@@ -12,3 +12,4 @@ header, section, footer {
   border-radius: 10px;
 
 }
+
