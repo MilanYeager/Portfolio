@@ -72,9 +72,10 @@ header {
 }
 
 .projects-pagina .logo {
-    width: 250px;  /* maak het logo groter of kleiner */
+    width: 150px;  /* maak het logo groter of kleiner */
     height: auto;  /* houdt de verhoudingen goed */
 }
+
 
 
 
