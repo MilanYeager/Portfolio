@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Museo Slab 300, sans-serif;
   background: #FCF7C8;; /* lichte achtergrond zoals in je voorbeeld */
   color: #333;
 }
@@ -65,6 +65,7 @@ body {
   border-radius: 20px;
   object-fit: cover;
 }
+
 
 
 
