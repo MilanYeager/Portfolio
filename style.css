@@ -69,13 +69,13 @@ body {
 header {
     text-align: center; /* centrum voor alle inhoud in header */
     padding: 20px 0;    /* ruimte boven en onder het logo */
-    background-color: #f4f4f4; /* optioneel: achtergrondkleur */
 }
 
 .projects-pagina .logo {
     width: 50px;  /* maak het logo groter of kleiner */
     height: auto;  /* houdt de verhoudingen goed */
 }
+
 
 
 
