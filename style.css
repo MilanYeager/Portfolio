@@ -62,9 +62,10 @@ body {
 .right .profile-pic {
   max-width: 120%;
   max-height: 100vh;
-  border-radius: 15px;
+  border-radius: 20px;
   object-fit: cover;
 }
+
 
 
 
