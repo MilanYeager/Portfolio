@@ -103,7 +103,7 @@ header {
 }
 
 .project {
-  background: white;
+  background: #FCF7C8;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -125,8 +125,9 @@ header {
   margin: 10px 0;
   padding: 10px;
   font-size: 18px;
-  background: #f4f4f4;
+  background: #FCF7C8;
 }
+
 
 
 
