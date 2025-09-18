@@ -118,6 +118,7 @@ header {
 .project img {
   width: 100%;
   height: auto;
+  object-fit: cover;    /* afbeelding bijsnijden zodat hij in het vak past */
   display: block;
 }
 
@@ -127,6 +128,7 @@ header {
   font-size: 18px;
   background: #FCF7C8;
 }
+
 
 
 
