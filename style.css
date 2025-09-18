@@ -95,6 +95,38 @@ header {
     background-color: #e0dcb1;
 }
 
+.projects {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* twee kolommen */
+  gap: 20px;
+  padding: 20px;
+}
+
+.project {
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.project:hover {
+  transform: scale(1.03);
+}
+
+.project img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.project h3 {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 18px;
+  background: #f4f4f4;
+}
 
 
 
