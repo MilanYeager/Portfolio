@@ -127,8 +127,12 @@ header {
   padding: 10px;
   font-size: 18px;
   background: #FCF7C8;
+  color: black;
 }
-
+.project a {
+  text-decoration: none;
+  color: inherit; /* neemt de kleur van h3 over */
+}
 
 
 
