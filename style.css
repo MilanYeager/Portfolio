@@ -134,12 +134,58 @@ header {
   color: inherit; /* neemt de kleur van h3 over */
 }
 
+.container {
+  display: flex;
+  min-height: 100vh;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.left, .right {
+  flex: 1;
+}
 
 
 
+/* Mobiel */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* stapel links en rechts onder elkaar */
+    padding: 20px;
+  }
 
+  .left, .right {
+    flex: none;
+    width: 100%;
+  }
 
+  .right .profile-pic {
+    max-width: 100%;
+    height: auto;
+  }
+}
 
+img {
+  max-width: 100%;  /* nooit breder dan de container */
+  height: auto;     /* verhouding blijft goed */
+  display: block;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 20px;
+  font-size: 16px;
+  text-align: center;
+  white-space: nowrap; /* tekst blijft op 1 regel */
+}
+
+@media (max-width: 480px) {
+  .button {
+    display: block;
+    width: 100%;     /* volle breedte op mobiel */
+    margin-bottom: 10px;
+  }
+}
 
 
 
