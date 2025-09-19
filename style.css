@@ -191,6 +191,10 @@ img {
   flex-wrap: wrap; /* zorgt dat items naar de volgende regel springen */
 }
 
+body {
+  padding: 20px;
+}
+
 
 
 
