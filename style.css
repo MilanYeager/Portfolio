@@ -125,7 +125,7 @@ header {
 .project h3 {
   margin: 10px 0;
   padding: 10px;
-  font-size: 18px;
+  font-size: 30px;
   background: #FCF7C8;
   color: black;
 }
@@ -133,6 +133,7 @@ header {
   text-decoration: none;
   color: inherit; /* neemt de kleur van h3 over */
 }
+
 
 
 
