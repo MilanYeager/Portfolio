@@ -168,7 +168,6 @@ header {
 img {
   max-width: 100%;  /* nooit breder dan de container */
   height: auto;     /* verhouding blijft goed */
-  display: block;
 }
 
 .button {
@@ -187,9 +186,6 @@ img {
   }
 }
 
-.logo {
-  width: 2000px;
-}
 
 
 
