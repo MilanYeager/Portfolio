@@ -186,6 +186,10 @@ img {
   }
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap; /* zorgt dat items naar de volgende regel springen */
+}
 
 
 
